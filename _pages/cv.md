@@ -131,5 +131,9 @@ Service and leadership
 ======
 * 2021 - present: Student Wing committee chair [Asia-Pacific Society for Computers in Education](https://apsce.net/member_2.php?id=32)
 * 2021: PC Member Learning Analytics and Knowledge Conference 2021 [LAK21 Data Challenge](https://sites.google.com/view/lak21datachallenge)
+* 2021: Peer Reviewer, Journal on [Interactive Learning Environment (ILE)](https://www.tandfonline.com/toc/nile20/current)
+* 2020: Peer Reviewer, [IEEE Access](https://ieeeaccess.ieee.org/)
+* 2020: Peer Reviewer, Journal on [Visual Computing for Industry, Biomedicine and Art](https://vciba.springeropen.com/)
 * 2020: Student Wing committee co-chair [Asia-Pacific Society for Computers in Education](https://apsce.net/member_2.php?id=32)
+* 2019: Peer Reviewer, [IEEE Transactions on Engineering Management](https://www.ieee-tems.org/ieee-transactions-on-engineering-management/)
 
