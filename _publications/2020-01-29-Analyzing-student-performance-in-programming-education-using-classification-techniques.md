@@ -1,8 +1,8 @@
 ---
 title: "Analyzing student performance in programming education using classification techniques"
 collection: publications
-permalink: /publication/2020-01-01-Analyzing-student-performance-in-programming-education-using-classification-techniques
-date: 2020-01-01
+permalink: /publication/2020-01-29-Analyzing-student-performance-in-programming-education-using-classification-techniques
+date: 2020-01-29
 venue: 'International Journal of Emerging Technologies in Learning (iJET)'
 citation: ' Kissinger Sunday,  Patrick Ocheja,  Sadiq Hussain,  Solomon Oyelere,  Balogun Samson,  Friday Agbo, &quot;Analyzing student performance in programming education using classification techniques.&quot; International Journal of Emerging Technologies in Learning (iJET), 2020.'
 ---

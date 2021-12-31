@@ -1,8 +1,8 @@
 ---
 title: "A Prototype Framework for a Distributed Lifelong Learner Model"
 collection: publications
-permalink: /publication/2020-01-01-A-Prototype-Framework-for-a-Distributed-Lifelong-Learner-Model
-date: 2020-01-01
+permalink: /publication/2020-11-23-A-Prototype-Framework-for-a-Distributed-Lifelong-Learner-Model
+date: 2020-11-23
 venue: 'In the proceedings of 28th International Conference on Computers in Education Conference Proceedings'
 citation: ' Patrick OCHEJA,  Brendan FLANAGAN,  Sunday OYELERE,  Louis LECAILLIEZ,  Hiroaki OGATA, &quot;A Prototype Framework for a Distributed Lifelong Learner Model.&quot; In the proceedings of 28th International Conference on Computers in Education Conference Proceedings, 2020.'
 ---
