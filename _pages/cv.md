@@ -138,3 +138,21 @@ Service and leadership
 * 2019: Peer Reviewer, [IEEE Transactions on Engineering Management](https://www.ieee-tems.org/ieee-transactions-on-engineering-management/)
 * Since 2019: Sub-reviewer of various peer-reviewed conference and journal papers
 
+Awards
+======
+* 2021: Japan Hackathon First Prize Winner (Team UbuntuHub)
+* 2019: Kyoto University Graduate School of Informatics, Award for Outstanding Master’s Thesis
+* 2019: International Cognitive Cities Conference (IC3) Best Student Paper
+* 2018: IPSJ Yamashita SIG Research Award 情報処理学会「2018年度山下記念研究賞」受賞
+* 2015: University of Nigeria Nsukka, Best Graduating Student. Class of 2014, Department of Electronic Engineering
+* 2013: Google Cloud Developer Challenge, Top 10 Finalist. I worked in a team of 2 and we developed an app for enabling communication and sharing resources among teachers and students of tertiary institutions in Nigeria.
+* 2013: Etisalat Nigeria, Merit Award for Academic Excellence. I received this award for being the best in class from 1st year to 3rd year of Bachelors program.
+* 2012: Total E&P Scholar, sponsored to the Nigeria Annual International Conference and Exhibition (NAICE) of the Society of Petroleum Engineers, SPE
+
+
+Scholarships and grants
+======
+* 2022 – 2024: Japan Society for the Promotion of Science (JSPS) Fellowship for research on Linking Lifelong Learning Logs and Distributed User Models Using Blockchain (*NEW)
+* 2019 - 2022: Monbukagakusho (MEXT) Scholarship for Ph.D. Program
+* 2017 - 2019: Monbukagakusho (MEXT) Scholarship for Master’s Program
+* 2014: International Petroleum Technology Conference’s (IPTC) Education Week Scholarship
