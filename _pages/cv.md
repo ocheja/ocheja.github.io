@@ -83,7 +83,7 @@ Skills
 
 * Platforms & Services
   * Blockchain: Ethereum and Quorum
-  * Dev: Android, Firebase
+  * Dev: Android, Firebase, Docker
 
 * Application Servers
   * NodeJS
