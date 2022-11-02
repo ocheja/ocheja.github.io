@@ -19,30 +19,40 @@ Education
 
 Work experience
 ======
-* October, 2020 - present: Research Assistant
-  * Kyoto University
-  * Duties include: Research and development of Educational Explainable AI Tools by co-evolution of learner’s self-explanation and AI generated explanation 
-  * Supervisor: Dr. Brendan Flanagan
+* October, 2022 - present: [JSPS Research Fellow](https://www.jsps.go.jp/english/e-fellow/) (Postdoc)
+  * [Ogata Lab, Academic Center for Computing and Media Studies, ACCMS](https://www.media.kyoto-u.ac.jp/accms_web/en/), Kyoto University
+  * Duties include: 
+    * Research & development of Connected Lifelong Learning Logs and Distributed User Models Using the Blockchain 
+  * Grant information: [Grant-in-Aid for JSPS Fellows](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22J15869/)
 
 * December, 2021 - present: Mentor
-  * Lighthouse Labs Inc.
+  * [Lighthouse Labs Inc.](https://www.lighthouselabs.ca/)
   * Duties include: 
     * Support students through their academic journey, and prepare them for their transition into an exciting new career in tech. 
     * Work directly with students to coach them through any roadblocks they might be experiencing, give them tips on solving problems, and generally provide them with support and advice.
   * Location: Remote
 
-* 2019 - 2021: CTO (part-time)
-  * Jobwher
-  * Duties included: Managed a remote team of engineers, and ideate and propose new features, plan and conduct sprints, stand-ups, code reviews, build tests and ship to production.
-  * Location: Osaka, Japan
+* October, 2020 - August 2022: Research Assistant
+  * [Ogata Lab, Academic Center for Computing and Media Studies, ACCMS](https://www.media.kyoto-u.ac.jp/accms_web/en/), Kyoto University, Kyoto - Japan
+  * Duties include: 
+    * Research and development of Educational Explainable AI Tools by co-evolution of learner’s self-explanation and AI generated explanation
+  * Supervisor: Dr. Brendan Flanagan
 
 * Summer 2018: Software Engineer
-  * Microsoft
-  * Duties included: Enhanced a rule-based ads quality prediction (decreased QBR by 2% and increased SSR by 0.5%)
+  * [Microsoft](https://microsoft.com)
+  * Duties included: 
+    * Enhanced a rule-based ads quality prediction (decreased QBR by 2% and increased SSR by 0.5%)
   * Location: Tokyo, Japan
 
+* 2016 - 2017: Lead Software Engineer
+  * [Enugu Electricity Distribution Company](https://enugudisco.com)
+  * Duties included:
+    * Led a team of 5 in the development of a Commercial energy bills Data Analysis Platform leveraging on the robust data analysis interface provided by MongoDB. Achieved 100% increase in bills payment by providing insights on aging analysis of debts and targeted collections.
+    * Developed models for implementation of mobile and web apps for cash collection by energy marketers to reduce inefficiency with increased accountability and availability (offline enabled).
+  * Location: Enugu, Nigeria
+
 * 2014 - 2016: Software Engineer
-  * Gidi Mobile Limited
+  * [Gidi Mobile Limited](https://gidimo.com)
   * Duties included: 
     * Wrote algorithms for scheduling remote data sync and image compression for better performance on poor network connections (Java). 
     * Reengineered friends’ module to provide users with new and improved real-time messaging functionalities (Java, Spring Framework & Angular2). 
@@ -51,8 +61,9 @@ Work experience
   * Location: Lagos, Nigeria
 
 * Summer 2014: Research Assistant
-  * University of Nigeria Nsukka
-  * Duties included: Led a team in developing a multipurpose data logging system with Processing, Arduino, MicroSD shield and sensors. This system automated recurrent capturing of temperature, humidity, current and voltage for researchers at University of Nigeria Nsukka National Center for Energy Research and Development.
+  * [University of Nigeria Nsukka](https://unn.edu.ng)
+  * Duties included: 
+    * Led a team in developing a multipurpose data logging system with Processing, Arduino, MicroSD shield and sensors. This system automated recurrent capturing of temperature, humidity, current and voltage for researchers at University of Nigeria Nsukka National Center for Energy Research and Development.
   * Location: Nsukka, Enugu, Nigeria
   
 Skills
@@ -91,7 +102,7 @@ Skills
   * Wildfly
   * Tomcat
 
-* Cloud Hosting
+* Cloud Services
   * Amazon Web Services (AWS)
   * Digital Ocean
   * Google Compute Engine

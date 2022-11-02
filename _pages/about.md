@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the department of Social Informatics at the graduate school of Informatics, Kyoto University. My current research is focused on applying blockchain technology to learning analytics with the ultimate goal of advancing learning analytics through seamless sharing of learning records for analytics between learning providers and learners with enforced privacy and security control mechanisms.
+I received a Ph.D. in Informatics at from the [Graduate school of Informatics, Kyoto University](https://www.i.kyoto-u.ac.jp/en/). My current research is focused on applying blockchain technology to learning analytics with the ultimate goal of advancing learning analytics through seamless sharing of learning records for analytics between learning providers and learners with enforced privacy and security control mechanisms.
 
 
 I have a bachelor's degree in Electronic Engineering from the University of Nigeria, Nsukka (UNN) where I graduated with distinction (honours). Some of my coursework include Software Engineering, Algorithms, Data Structures, Systems Engineering, Computer Architecture, Microprocessor Systems and Design, Communication Networks, Programming Languages, Calculus, Linear Algebra, Computational Methods and Statistics.
