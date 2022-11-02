@@ -14,7 +14,7 @@ Education
 * B.Eng. in Electronic Engineering, University of Nigeria Nsukka, 2014
 * M.S. in Informatics, Kyoto University, 2019
   * Proposed a decentralized learning analytics platform
-* Ph.D in Informatics, Kyoto University, 2022 (expected)
+* Ph.D. in Informatics, Kyoto University, 2022
   * Research on connecting distributed lifelong learning logs through the blockchain
 
 Work experience
