@@ -28,36 +28,36 @@ Work experience
 * December, 2021 - present: Mentor
   * [Lighthouse Labs Inc.](https://www.lighthouselabs.ca/)
   * Duties include: 
-    * Support students through their academic journey, and prepare them for their transition into an exciting new career in tech. 
-    * Work directly with students to coach them through any roadblocks they might be experiencing, give them tips on solving problems, and generally provide them with support and advice.
+    * Supporting students through their academic journey, and prepare them for their transition into an exciting new career in tech. 
+    * Working directly with students to coach them through any roadblocks they might be experiencing, give them tips on solving problems, and generally provide them with support and advice.
   * Location: Remote
 
 * October, 2020 - August 2022: Research Assistant
   * [Ogata Lab, Academic Center for Computing and Media Studies, ACCMS](https://www.media.kyoto-u.ac.jp/accms_web/en/), Kyoto University, Kyoto - Japan
-  * Duties include: 
+  * Duties included: 
     * Research and development of Educational Explainable AI Tools by co-evolution of learner’s self-explanation and AI generated explanation
   * Supervisor: Dr. Brendan Flanagan
 
 * Summer 2018: Software Engineer
   * [Microsoft](https://microsoft.com)
   * Duties included: 
-    * Enhanced a rule-based ads quality prediction (decreased QBR by 2% and increased SSR by 0.5%)
+    * Enhancing a rule-based ads quality prediction (decreased QBR by 2% and increased SSR by 0.5%)
   * Location: Tokyo, Japan
 
 * 2016 - 2017: Lead Software Engineer
   * [Enugu Electricity Distribution Company](https://enugudisco.com)
   * Duties included:
-    * Led a team of 5 in the development of a Commercial energy bills Data Analysis Platform leveraging on the robust data analysis interface provided by MongoDB. Achieved 100% increase in bills payment by providing insights on aging analysis of debts and targeted collections.
-    * Developed models for implementation of mobile and web apps for cash collection by energy marketers to reduce inefficiency with increased accountability and availability (offline enabled).
+    * Leading a team of 5 in the development of a Commercial energy bills Data Analysis Platform leveraging on the robust data analysis interface provided by MongoDB. Achieved 100% increase in bills payment by providing insights on aging analysis of debts and targeted collections.
+    * Developing models for implementation of mobile and web apps for cash collection by energy marketers to reduce inefficiency with increased accountability and availability (offline enabled).
   * Location: Enugu, Nigeria
 
 * 2014 - 2016: Software Engineer
   * [Gidi Mobile Limited](https://gidimo.com)
   * Duties included: 
-    * Wrote algorithms for scheduling remote data sync and image compression for better performance on poor network connections (Java). 
-    * Reengineered friends’ module to provide users with new and improved real-time messaging functionalities (Java, Spring Framework & Angular2). 
-    * Designed the database for friends’ module and other app data with proper versioning for good offline experience (Java on Android, SQLite & Google Push Notification Service). 
-    * Co-designed the database model for Gidimo Community feature on android and web; a discussion forum for learners to share ideas and collaboratively solve problems.
+    * Writing algorithms for scheduling remote data sync and image compression for better performance on poor network connections (Java). 
+    * Reengineering friends’ module to provide users with new and improved real-time messaging functionalities (Java, Spring Framework & Angular2). 
+    * Designing the database for friends’ module and other app data with proper versioning for good offline experience (Java on Android, SQLite & Google Push Notification Service). 
+    * Co-designing the database model for Gidimo Community feature on android and web; a discussion forum for learners to share ideas and collaboratively solve problems.
   * Location: Lagos, Nigeria
 
 * Summer 2014: Research Assistant
